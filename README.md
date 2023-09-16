@@ -1,6 +1,6 @@
 ### Hi MSI 👋
 
-<!--
+
 **msicrypt/msicrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### MSI Threat Intelligence & Blue Team Tool.
